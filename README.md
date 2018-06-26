@@ -26,11 +26,10 @@ Alice.updateContent({
 
 ## Screenshots
 
-You want an example?
-Turn this:
+You want an example? This is the default theme:
 ![Alice screenshot before customization](/doc/alice-before.png?raw=true)
 
-Into this:
+This is the `alice-theme-example` customization:
 ![Alice screenshot after customization](/doc/alice-after.png?raw=true)
 
 
