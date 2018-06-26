@@ -1,0 +1,28 @@
+
+/*
+ * Alice Example Theme
+ * -------------------
+ *
+ * Just some minor style changes.
+ */
+
+.page-sidebar {
+  background: #1b6c8f;
+}
+
+.page-sidebar .sidebar-header {
+  background: #f0ad4e;
+}
+
+.page-sidebar .sidebar-header .logo a {
+  color: #222;
+}
+
+.page-sidebar .sidebar-header .title h1,
+.page-sidebar .sidebar-header .title p {
+  color: #222;
+}
+
+.page-sidebar .sidebar-header .title h1 {
+  font-weight: bold;
+}
