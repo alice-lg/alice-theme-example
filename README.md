@@ -5,12 +5,17 @@ Give your looking glass a fresh new look!
 
 ## How this works
 You can put assets (images, fonts, javscript, css) in 
-this folder.
+your theme folder. In your alice config, you just have
+to specify the path to your theme. For example:
+
+    [theme]
+    path = /opt/alice-themes/alice-theme-example
+
 
 Stylesheets and scripts are automatically included in
 the client's html and are served from the backend.
 
-Alice provides an extension API, which is for now 
+Alice provides early stages of an extension API, which is for now 
 only used to modify the content of the welcome screen,
 by providing a javascript in your theme containing:
 
